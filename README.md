@@ -19,7 +19,7 @@
 Clone the Repository
 
 ```bash
-https://github.com/entbappy/End-to-end-Text-Summarization
+git clone https://github.com/SuchindraKumar/Text-Summarizer-Project.git
 ```
 ### STEP 01- Create a Conda Environment after Opening the Repository
 
